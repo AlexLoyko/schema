@@ -32,7 +32,8 @@ var schema = {
     region: doc,
     macroregion: doc,
     dependency: doc,
-    country: doc
+    country: doc,
+    intersections: doc
   }
 };
 
